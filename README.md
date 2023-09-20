@@ -36,3 +36,11 @@ I'm Sebastián, but you can call me Sebas, a full-stack web developer based in T
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/figma.svg" alt="Figma" height="40" width="40" /> 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Other/git.svg" alt="Git" height="40" width="40" /> 
 </p>
+
+## Reach me at
+
+<p float="left">
+    <a href="https://www.instagram.com/4ubio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4ubio" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/sebastiánrubi0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sebastian Rubio" height="30" width="40" /></a>
+    <a href="https://github.com/4ubio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="4ubio" height="30" width="40" /></a>
+</p>
