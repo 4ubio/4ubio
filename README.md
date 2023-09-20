@@ -10,10 +10,10 @@ I'm Sebastián, but you can call me Sebas, a full-stack web developer based in T
 
 ## Experience
 
-💻 Cafe 3.0: A web platform where students can make food orders in my college cafe. <br>
-💻 Vertice App: An entire web plataform for excellence program "Vértice" and his members, applicants and administrators. <br>
-💻 Asistencias IEST: A web platform where teachers can register their assistance to meetings and trainings in my college through QR codes. <br>
-💻 ILAM: A web platform where chemistry engineering students can reserve a laboratory in the campus, request private classes, etc. <br>
+💻 **Cafe 3.0**: A web platform where students can make food orders in my college cafe. <br>
+💻 **Vertice App**: An entire web plataform for excellence program "Vértice" and his members, applicants and administrators. <br>
+💻 **Asistencias IEST**: A web platform where teachers can register their assistance to meetings and trainings in my college through QR codes. <br>
+💻 **ILAM**: A web platform where chemistry engineering students can reserve a laboratory in the campus, request private classes, etc. <br>
 
 ## Tech stack
 
@@ -51,3 +51,7 @@ I'm Sebastián, but you can call me Sebas, a full-stack web developer based in T
     <img alt= "stats card" height="150" src="https://github-readme-stats.vercel.app/api?username=4ubio&count_private=true&theme=github_dark&show_icons=true">
     <img alt="lang" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ubio&layout=compact&theme=github_dark">
 </p>
+
+## Fun fact
+
+👟 I'm a sneakerhead. Sneakers and clothing design is my personal passion.
