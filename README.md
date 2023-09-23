@@ -6,7 +6,7 @@ I'm Sebastián, but you can call me Sebas, a full-stack web developer based in T
 
 ## Founder and owner of
 
-<!-- 🌴 [Tamfy.mx](https://tamfy.mx): A social network where businesses in Tampico, Madero, and Altamira showcase their products and services, reach a wider audience, and thrive in a digital age. <br> -->
+🌴 [Tamfy.mx](https://tamfy.mx): A social network where businesses in Tampico, Madero, and Altamira showcase their products and services, reach a wider audience, and thrive in a digital age. <br>
 ☁️ [Cloudate](https://cloudate.netlify.app/): A digital calendar that combines intuitive user interfaces with the convenience of cloud storage. <br>
 ☁️ [Cloudybook](https://cloudybook.netlify.app/): A digital space where users could store, organize, and retrieve their notes effortlessly in a secure and cloud-based environment. <br>
 
