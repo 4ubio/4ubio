@@ -1,8 +1,6 @@
 # Hey, nice to meet you! 👋🏽
 
-I'm Sebastián, but you can call me Sebas, a software engineer based in Tampico, México 🇲🇽. My interest in software development started when I was 13 and created my first Android mobile app in junior high school. My career in software engineering began in 2020 with a profound fascination for coding. From that point forward, I've been on a continuous quest to deepen my knowledge, acquire new skills, and contribute to the ever-evolving landscape of software development.
-
-💼 You can see my whole portfolio [here](https://sebastian-rubio.web.app/). <br>
+I'm **Sebastián**, but you can call me **Sebas**, a **Software Engineer** based in Tampico, México 🇲🇽. I began my career in software engineering in 2020, and since then, I have developed a diverse range of projects. My passion spans **web** and **mobile development**, as well as **machine learning**, driving me to continuously expand my skill set and craft innovative solutions. This commitment to growth and creativity is reflected in the projects showcased in my [portfolio 💼](https://sebastian-rubio.web.app/). If you're interested in collaborating, discussing job opportunities, or simply exchanging ideas, I'd love to hear from you. ✌🏽
 
 ## Founder and owner of
 
@@ -23,6 +21,7 @@ I'm Sebastián, but you can call me Sebas, a software engineer based in Tampico,
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/php.svg" alt="PHP" height="40" width="40" /> 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mysql.svg" alt="MySQL" height="40" width="40" /> 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="React.js" height="40" width="40" /> 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/redux.svg" alt="Redux.js" height="40" width="40" /> 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="Node.js" height="40" width="40" /> 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/express.svg" alt="Express.js" height="40" width="40" /> 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mongodb.svg" alt="MongoDB" height="40" width="40" /> 
